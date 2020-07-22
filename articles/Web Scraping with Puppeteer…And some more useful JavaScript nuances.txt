@@ -1,3 +1,0 @@
-			Web Scraping with Puppeteer…And some more useful JavaScript nuances
-
-Link: https://blog.bitsrc.io/web-scraping-with-puppeteer-e73e5fee7474

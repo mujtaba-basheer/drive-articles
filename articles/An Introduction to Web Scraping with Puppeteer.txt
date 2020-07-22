@@ -1,3 +1,0 @@
-			An Introduction to Web Scraping with Puppeteer
-
-Link: https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0

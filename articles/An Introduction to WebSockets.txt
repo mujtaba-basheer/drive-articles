@@ -1,3 +1,0 @@
-			An Introduction to WebSockets
-
-Link: https://blog.teamtreehouse.com/an-introduction-to-websockets

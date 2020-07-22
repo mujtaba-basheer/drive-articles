@@ -1,3 +1,0 @@
-			Server Side Rendering with React
-
-Link: https://flaviocopes.com/react-server-side-rendering/#:~:text=Server%20Side%20Rendering%2C%20also%20called,to%20a%20good%20user%20experience

@@ -1,3 +1,0 @@
-			How to Pass the TensorFlow Developer Certificate Exam
-
-Link: https://www.freecodecamp.org/news/how-i-passed-the-certified-tensorflow-developer-exam/

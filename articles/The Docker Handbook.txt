@@ -1,3 +1,0 @@
-			The Docker Handbook
-
-Link: https://www.freecodecamp.org/news/the-docker-handbook/

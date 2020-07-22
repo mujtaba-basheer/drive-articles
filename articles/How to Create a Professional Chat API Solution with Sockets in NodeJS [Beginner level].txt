@@ -1,3 +1,0 @@
-			How to Create a Professional Chat API Solution with Sockets in NodeJS [Beginner level]
-
-Link: https://www.freecodecamp.org/news/create-a-professional-node-express/
