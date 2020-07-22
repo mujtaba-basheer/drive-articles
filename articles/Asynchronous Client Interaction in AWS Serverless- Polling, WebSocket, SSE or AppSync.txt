@@ -1,0 +1,3 @@
+			Asynchronous Client Interaction in AWS Serverless- Polling, WebSocket, SSE or AppSync
+
+Link: https://medium.com/serverless-transformation/asynchronous-client-interaction-in-aws-serverless-polling-websocket-server-sent-events-or-acf10167cc67
